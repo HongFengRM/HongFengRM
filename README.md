@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HongFengRM
-- 👀 I’m interested in Redalert2 modding 
-- 🌱 I’m currently learning Redalert2 modding & 3dsmax
-- 💞️ I’m looking to collaborate on Redalert2 modding 
+- 👀 I’m interested in Redalert3 modding 
+- 🌱 I’m currently learning Redalert3 modding & 3dsmax
+- 💞️ I’m looking to collaborate on Redalert3 modding 
 - 📫 U can catch me by qq:596891218 or Email 596891218@qq.com
 
 <!---
